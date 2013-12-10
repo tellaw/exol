@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UpSolution\n"
+"POT-Creation-Date: 2013-10-25 16:55+0200\n"
+"PO-Revision-Date: 2013-10-25 16:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:13
+msgid "Error 404 - page not found"
+msgstr ""
+
+#: ../404.php:14
+msgid "Ohh... You have requested the page that is no longer there"
+msgstr ""
+
+#: ../archive.php:15
+msgid "Category Archive for"
+msgstr ""
+
+#: ../archive.php:18
+msgid "Posts Tagged"
+msgstr ""
+
+#: ../archive.php:21 ../archive.php:24 ../archive.php:27
+msgid "Archive for"
+msgstr ""
+
+#: ../archive.php:30
+msgid "Author Archive"
+msgstr ""
+
+#: ../archive.php:33
+msgid "Blog Archives"
+msgstr ""
+
+#: ../comments.php:13
+msgid "No comments"
+msgstr ""
+
+#: ../comments.php:13
+msgid "1 Comment."
+msgstr ""
+
+#: ../comments.php:13
+msgid "Leave new"
+msgstr ""
+
+#: ../comments.php:13
+msgid "% Comments."
+msgstr ""
+
+#: ../comments.php:30
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr ""
+
+#: ../footer.php:139
+msgid "Please enter Your Name!"
+msgstr ""
+
+#: ../footer.php:140
+msgid "Please enter Your Email!"
+msgstr ""
+
+#: ../footer.php:141
+msgid "Please enter Your Phone!"
+msgstr ""
+
+#: ../footer.php:142
+msgid "Please enter Message!"
+msgstr ""
+
+#: ../footer.php:143
+msgid "Message Sent!"
+msgstr ""
+
+#: ../page-sidebar_left.php:32 ../page-sidebar_right.php:32
+msgid "Next"
+msgstr ""
+
+#: ../page-sidebar_left.php:33 ../page-sidebar_right.php:33
+msgid "Previous"
+msgstr ""
+
+#: ../search.php:14
+msgid "Search Results for"
+msgstr ""
+
+#: ../single.php:38
+msgid "No Comments"
+msgstr ""
+
+#: ../single.php:38
+msgid "1 Comment"
+msgstr ""
+
+#: ../single.php:38
+msgid "% Comments"
+msgstr ""
+
+#: ../single.php:42
+msgid "Read More &raquo;"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:618
+msgid "Upload"
+msgstr ""
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../functions/ajax_contact.php:44
+msgid "Name"
+msgstr ""
+
+#: ../functions/ajax_contact.php:49 ../functions/shortcodes.php:874
+#: ../functions/shortcodes.php:921 ../functions/widgets/contact.php:68
+msgid "Email"
+msgstr ""
+
+#: ../functions/ajax_contact.php:54 ../functions/shortcodes.php:867
+#: ../functions/widgets/contact.php:61
+msgid "Phone"
+msgstr ""
+
+#: ../functions/ajax_contact.php:57 ../functions/shortcodes.php:948
+msgid "Message"
+msgstr ""
+
+#: ../functions/ajax_contact.php:60
+msgid "Contact request from"
+msgstr ""
+
+#: ../functions/link_pages.php:33
+msgid "Pages:"
+msgstr ""
+
+#: ../functions/menu.php:94
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions/shortcodes.php:860 ../functions/widgets/contact.php:54
+msgid "Address"
+msgstr ""
+
+#: ../functions/shortcodes.php:906
+msgid "Your name"
+msgstr ""
+
+#: ../functions/shortcodes.php:936
+msgid "Phone Number"
+msgstr ""
+
+#: ../functions/shortcodes.php:959
+msgid "Send Message"
+msgstr ""
+
+#: ../functions/widgets/contact.php:42
+msgid "Contacts"
+msgstr ""
